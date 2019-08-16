@@ -96,8 +96,8 @@ class StPatricksDayCookie(Cookie):
 		super().baking_announcement()
 		print("Happy St. Patrick's Day!")
 ```		
-		
-See how this only explicitly writes out the parts you want to _change_? Imaging that everything from `Cookie` is still available to you, but it's just **invisible** now. To see through the invisibility shield, you have to go to the parent (which, again, you can do by Ctrl + clicking in PyCharm).
+	
+See how this only explicitly writes out the parts you want to _change_? Imagine that everything from `Cookie` is still available to you, but it's just **invisible** now. To see through the invisibility shield, you have to go to the parent (which, again, you can do by Ctrl + clicking in PyCharm).
 
 ---
 #### A Special Note
